@@ -4,7 +4,7 @@
 </p>
 
 #### How to use
-It is very easy! Change the value of power you want to use. Depending on what power you use, it may create a massive file! Run the python file, it will output a C file. Compile this C file, then run the executable and specify a number.
+It is very easy! This was coded as I thought it would be funny to use python code to create a C file. Change the value of power you want to use. Depending on what power you use, it may create a massive file! Run the python file, it will output a C file. Compile this C file, then run the executable and specify a number.
 
 #### Contributing
 If you have any idea how to make this app better, please [create a pull request](https://github.com/JaredWestley/Calculate-odd-or-even-Python-code-to-C-/compare). If you find any bug, please [create an issue](https://github.com/JaredWestley/Calculate-odd-or-even-Python-code-to-C-/issues/new).
